@@ -2,6 +2,9 @@
 Some wallpapers.
 Formats used: `png`, `jpg`.
 ## Preview
+### Lockscreen:
+![lock](lock/wallpaper-lock.png)
+### Main:
 ![1](wallpaper-1.jpg)
 ![2](wallpaper-2.jpg)
 ![3](wallpaper-3.jpg)
